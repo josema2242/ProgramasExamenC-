@@ -5,7 +5,7 @@ using namespace std;
 int main(int argc, char** argv) {
 	
 	
-	cout<<"Este programa muestra los numeros del 1 al 30"<<endl<<endl;
+	cout<<"Este programa muestra los numeros del 20 al 30"<<endl<<endl;
 	
 	for(int i =20; i <=30;i++){
 		
